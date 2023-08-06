@@ -1,22 +1,22 @@
 YouTube: 18.23.35  
 YouTube-Extended: 18.30.37  
-Music (arm-v7a): 6.13.52  
-Music (arm64-v8a): 6.13.52  
 Music-Extended (arm64-v8a): 6.13.52  
+Music (arm64-v8a): 6.13.52  
+Music (arm-v7a): 6.13.52  
 Music-Extended (arm-v7a): 6.13.52  
-Twitch: 15.4.1  
 Twitter: 10.1.0-release.0  
+Twitch: 15.4.1  
 TikTok: 30.7.3  
 Reddit: 2023.30.0  
 Backdrops: 4.52  
 Spotify-Lite: 1.9.0.42776  
-Messenger: 420.0.0.15.50  
 Spotify: 8.8.50.466  
+Messenger: 420.0.0.15.50  
 MyExpenses: 3.4.9  
 NyxMusicPlayer: 2.2.7  
 IconPackStudio: 2.1 build 028  
 TickTick: 6.6.8.1  
-Tasker: 6.2.11-rc  
+Tasker: 6.2.12-rc  
 Facebook-Messenger-arm64: 420.0.0.15.50  
 Facebook-Messenger-arm: 420.0.0.15.50  
 
@@ -61,7 +61,7 @@ Etc
 
 ---
 CLI: j-hc/revanced-cli-2.23.0-all.jar  
-Integrations: ReVanced/revanced-integrations-0.115.0.apk  
+Integrations: ReVanced/revanced-integrations-0.115.1.apk  
 Patches: ReVanced/revanced-patches-2.187.0.jar  
 
 ### [2.187.0](https://github.com/ReVanced/revanced-patches/compare/v2.186.0...v2.187.0) (2023-08-02)
